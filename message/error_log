@@ -1,0 +1,193 @@
+[26-Mar-2022 08:30:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:30:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:30:50 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:31:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:31:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[26-Mar-2022 08:38:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 87
+[26-Mar-2022 08:38:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/database/getMsgNotif.php on line 88
+[27-Sep-2022 10:36:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:36:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:36:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:36:41 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 276
+[27-Sep-2022 10:41:08 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:08 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:08 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:17 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:18 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:19 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:20 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:41:45 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:45 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:45 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:41:51 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/getUserData.php on line 20
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/getUserData.php on line 20
+[27-Sep-2022 10:46:41 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/chat_header.php on line 65
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/getUserData.php on line 20
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/message/getUserData.php on line 20
+[27-Sep-2022 10:48:05 UTC] PHP Warning:  Undefined variable $validReceiver in /home/posigraph/public_html/posigraph_new/message/chatApp.php on line 284

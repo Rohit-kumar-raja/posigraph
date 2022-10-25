@@ -1,0 +1,346 @@
+[26-Mar-2022 08:30:48 UTC] PHP Notice:  Undefined variable: user in /home/hlw885grukdy/public_html/Demo/Social/friends/friends.php on line 194
+[26-Mar-2022 08:30:48 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/friends/friends.php on line 194
+[26-Mar-2022 08:30:48 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hlw885grukdy/public_html/Demo/Social/friends/showUsers.php on line 490
+[26-Mar-2022 08:30:48 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hlw885grukdy/public_html/Demo/Social/friends/showUsers.php on line 508
+[26-Mar-2022 08:38:05 UTC] PHP Notice:  Undefined variable: user in /home/hlw885grukdy/public_html/Demo/Social/friends/friends.php on line 194
+[26-Mar-2022 08:38:05 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hlw885grukdy/public_html/Demo/Social/friends/friends.php on line 194
+[26-Mar-2022 08:38:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/hlw885grukdy/public_html/Demo/Social/friends/showUsers.php on line 490
+[26-Mar-2022 08:38:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/hlw885grukdy/public_html/Demo/Social/friends/showUsers.php on line 508
+[27-Sep-2022 08:08:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:09:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:09:31 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:10:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:12:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:29:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:33:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:33:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:37:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:39:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/posigraph/public_html/posigraph_new/battle/connection.php on line 5
+[27-Sep-2022 08:39:34 UTC] PHP Warning:  Undefined array key "id" in /home/posigraph/public_html/posigraph_new/battle/showUsers.php on line 30
+[27-Sep-2022 08:39:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:39:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:39:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:39:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:29 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:29 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:40:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:41:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:42:15 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:42:15 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:42:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:01 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:01 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:28 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:28 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:30 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:30 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:43 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:43 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:43:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:44:53 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:44:53 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:44:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:45:57 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:45:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:45:57 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:45:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:21 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:21 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 08:46:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:45:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:45:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:45:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:45:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:48 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:48 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:47:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:48:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:49:59 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:49:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:49:59 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 09:49:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:00:30 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:00:30 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:00:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:10 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:10 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:14 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:14 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:39 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:39 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:50 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:50 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:25:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:31:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:31:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:31:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:31:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:37 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:37 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:52 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:34:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:07 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:07 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:44 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:44 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:49 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:49 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:57 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:57 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:35:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:15 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:15 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:33 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:38 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:38 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:36:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:49:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:49:17 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:49:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:00 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:00 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:24 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:24 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:44 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:44 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:50:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:21 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:21 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:41 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 10:56:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:09:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:09:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:09:51 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:09:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 12:10:06 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 12:10:07 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:07 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(database/connection.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(): Failed opening 'database/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 5
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(database/like.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(): Failed opening 'database/like.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 6
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(database/dislike.php): Failed to open stream: No such file or directory in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  include(): Failed opening 'database/dislike.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/posigraph/public_html/posigraph_new/database/getPost.php on line 7
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  Undefined array key "bid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 14
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  Undefined array key "pid" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 15
+[27-Sep-2022 12:10:15 UTC] PHP Warning:  Undefined array key "type" in /home/posigraph/public_html/posigraph_new/add_battle.php on line 16
+[27-Sep-2022 12:10:16 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:16 UTC] PHP Warning:  Undefined variable $user in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53
+[27-Sep-2022 12:10:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/posigraph/public_html/posigraph_new/battle/battle_header.php on line 53

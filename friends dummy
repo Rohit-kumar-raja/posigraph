@@ -1,0 +1,378 @@
+<?php
+//session_start();
+include("../database/connection.php");
+$database="socialplexus";
+mysqli_select_db($conn,$database);
+
+$me=$_SESSION['id'];
+    
+
+function newUsers()
+{     global $conn,$me;
+      $i=0;
+      $friendId[]=0;
+ 
+ $id="select userOne from friends where userTwo=$me";//when i'am 2nd col,get friend Id from userOne
+
+     $friend=mysqli_query($conn,$id);
+    if($friend)
+    {
+     if(mysqli_num_rows($friend)>= 1)
+     {  
+           while($row=mysqli_fetch_array($friend))
+           {
+               
+                     $friendId[$i]=$row['userOne'];
+               
+                     $i++;  
+           }
+     
+     }
+
+    }
+ else
+      mysqli_error($conn);
+ 
+  $id="select userTwo from friends where userOne=$me";// when i'am 1st col,get friend Id from userTwo
+     $friend=mysqli_query($conn,$id);
+    if($friend)
+    {
+     if(mysqli_num_rows($friend)>= 1)
+     {  
+           while($row=mysqli_fetch_array($friend))
+           {
+               
+                     $friendId[$i]=$row['userTwo'];
+               
+                     $i++;  
+           }
+        
+     
+     }
+
+    }
+ else
+      mysqli_error($conn);
+ 
+ 
+// also select requested user or requesting  user
+ 
+ $id="select senderId from friend_request where receiverId=$me";//when someone sent rqst to me get Id from userTwo
+     $receiverId=mysqli_query($conn,$id);
+    if($friend)
+    {
+     if(mysqli_num_rows($receiverId)>= 1)
+     {  
+           while($row=mysqli_fetch_array($receiverId))
+           {
+               
+                     $friendId[$i]=$row['senderId'];
+               
+                     $i++;  
+           }
+        
+     
+     }
+
+    }
+ else
+      mysqli_error($conn);
+ 
+ 
+ $id="select receiverId from friend_request where senderId=$me";//when someone sent rqst to me get Id from userTwo
+     $receiverId=mysqli_query($conn,$id);
+    if($friend)
+    {
+     if(mysqli_num_rows($receiverId)>= 1)
+     {  
+           while($row=mysqli_fetch_array($receiverId))
+           {
+               
+                     $friendId[$i]=$row['receiverId'];
+               
+                     $i++;  
+           }
+        
+     
+     }
+
+    }
+ else
+      mysqli_error($conn);
+ 
+ 
+ 
+ 
+ 
+        $str =implode(',', $friendId);
+    $query=" select userId ,firstName ,dp from user where userId NOT IN($str,$me)";
+    $newUser=mysqli_query($conn,$query);
+    if($newUser)
+    {
+        if(mysqli_num_rows($newUser) >= 1)
+        {
+            while($row=mysqli_fetch_array($newUser))
+            {
+                echo"
+                    
+                    <div class='col-sm-12 user-detail'>
+
+                               <div class='col-sm-4 user-pic'> <img src='../proImg/pro.jpg'> </div>
+                        <div class='col-sm-7 user-name-buttons'> 
+                        
+                             <div class=' row name'>
+                                  <a href='peopleProfile.php'><p style='margin:10px 10px;'>{$row['firstName']}</p></a>
+                             </div>
+                             
+                           <div class='row btn'>
+                             <a id='request' href='#'><button data-id='{$row['userId']}'         data-name='{$row['firstName']}' class='request-btn' >Request</button>
+                             </a>
+                            </div>
+
+                        </div>
+
+                   </div>
+                 
+                  ";
+            }
+        }
+        
+    }
+    else
+        mysqli_error($conn);
+    
+
+}
+
+
+
+function meToUsers()
+{
+    global $conn,$me;
+    $query="select receiverId from friend_request where senderId='$me'";
+    $requestedUser=mysqli_query($conn,$query);
+    if($requestedUser)
+    {
+        if(mysqli_num_rows($requestedUser) >= 1)
+        {
+           
+            while($row=mysqli_fetch_array($requestedUser))
+            {     
+                 $query="select userId, firstName ,dp from user where userId={$row['receiverId']}";
+                  $nameDp=mysqli_query($conn,$query);
+                  $receiverNameDp=mysqli_fetch_array($nameDp);
+                echo"
+                    
+                    <div class='col-sm-12 user-detail'>
+
+                               <div class='col-sm-4 user-pic'> <img src='../proImg/pro.jpg'> </div>
+                        <div class='col-sm-7 user-name-buttons'> 
+                        
+                             <div class=' row name'>
+                                  <a href='peopleProfile.php'><p style='margin:10px 10px;'>{$receiverNameDp['firstName']}</p>
+                                  </a>
+                             </div>
+                             
+                           <div class='row btn'>
+                             <a id='request' href='#'><button data-id='{$row['receiverId']}'      data-name='{$receiverNameDp['firstName']}' class='cancel-btn' >cancel</button></a>
+                            </div>
+
+                        </div>
+
+                   </div>
+                 
+                  ";
+            }
+        }
+        
+    }
+    else
+        mysqli_error($conn);
+    
+
+}
+
+
+function usersToMe()
+{
+    global $conn,$me;
+    $query="select senderId  from friend_request where receiverId='$me'";
+    $requestedUser=mysqli_query($conn,$query);
+    if($requestedUser)
+    {
+        if(mysqli_num_rows($requestedUser) >= 1)
+        {
+            while($row=mysqli_fetch_array($requestedUser))
+            {
+                 $query="select firstName ,dp from user where userId={$row['senderId']}";
+                  $nameDp=mysqli_query($conn,$query);
+                  $senderNameDp=mysqli_fetch_array($nameDp);
+                echo"
+                    
+                     <div class='col-sm-12 user-detail'>
+
+                           <div class='col-sm-4 user-pic'> 
+                                 <img src='../proImg/pro.jpg'>    
+                            </div>
+
+                            <div class='col-sm-7 user-name-buttons'>
+                       
+                                    <div class='row name'>
+                                      <a href='peopleProfile.php'><p style='margin:10px 10px;'>{$senderNameDp['firstName']}</p>
+                                       </a>
+                                    </div>
+
+                                    <div class='row btn'>
+
+                                     <a href='#'>
+                                    <button data-id='{$row['senderId']}'                            data-name='{$senderNameDp['firstName']}' class='accept-btn' >accept
+                                       </button>
+                                     </a>
+                       
+                                       <a href='#'>
+                                    <button data-id='{$row['senderId']}'                               data-name='{$senderNameDp['firstName']}' class='ignore-btn'>     ignore
+                                       </button>
+                                     </a>
+                                    </div>
+
+                            </div> 
+                 </div>
+                 
+                  ";
+                
+                
+                  
+            }
+        }
+        
+    }
+    else
+        mysqli_error($conn);
+    
+
+}
+
+function myFriends()
+{
+    global $conn,$me;
+    
+  $query="select userOne,userTwo from friends where userOne=$me or userTwo=$me";// when i'am 1st col,get friend Id from userTwo
+     $friends=mysqli_query($conn,$query);
+    if($friends)
+    {
+     if(mysqli_num_rows($friends)>= 1)
+     {  
+           while($row=mysqli_fetch_array($friends))
+           {
+               
+                  if($row['userOne']==$me)
+                  {
+                     $query="select userId,firstName ,dp from user where userId={$row['userTwo']}";
+                      $nameDp=mysqli_query($conn,$query);
+                      $friend=mysqli_fetch_array($nameDp);
+                      
+                      echo"
+                          <div class='col-sm-12 user-detail'>
+
+                                 <div class='col-sm-5'>
+                                       <div class='friend-pic round-pic'> 
+                                             <img src='../proImg/pro.jpg'>    
+                                        </div>
+                                 </div>
+
+                                <div class='col-sm-7 user-name-buttons'> 
+                                    <div class='row name'><a href='peopleProfile.php'><p style='color:white;margin:10px 10px;'>{$friend['firstName']}</p></a></div>
+                                   <div class='row btn'> <a href='#'>
+                                    <button data-id='{$friend['userId']}'                           data-name='{$friend['firstName']}' class='unfriend-btn'>Unfriend</button></a>
+                                    </div>
+
+                                </div>
+
+                              </div> 
+                 
+                        ";
+                      
+                  }
+                 else
+                 {
+                    $query="select userId,firstName ,dp from user where userId={$row['userOne']}";
+                      $nameDp=mysqli_query($conn,$query);
+                      $friend=mysqli_fetch_array($nameDp);
+                      
+                      echo"
+                          <div class='col-sm-12 user-detail'>
+
+                                 <div class='col-sm-5'>
+                                       <div class='friend-pic round-pic'> 
+                                             <img src='../proImg/pro.jpg'>    
+                                        </div>
+                                 </div>
+
+                                <div class='col-sm-7 user-name-buttons'> 
+                                    <div class='row name'><a href='peopleProfile.php'><p style='color:white;margin:10px 10px;'>{$friend['firstName']}</p></a></div>
+                                   <div class='row btn'> <a href='#'>
+                                   <button data-id='{$friend['userId']}'                         data-name='{$friend['firstName']}' class='unfriend-btn'>Unfriend</button></a>
+                                   </div>
+
+                                </div>
+
+                              </div> 
+                 
+                        "; 
+                 }
+           }
+        
+     
+     }
+
+    }
+ else
+      mysqli_error($conn);
+}
+
+
+
+
+function getFriends($id)
+{ global $conn;
+    $i=0;
+      $friendId[]=0;
+    $query="select userOne,userTwo from friends where userOne=$id or userTwo=$id";// when i'am 1st col,get friend Id from userTwo
+     $friends=mysqli_query($conn,$query);
+    if($friends)
+    {
+     if(mysqli_num_rows($friends)>= 1)
+     {  
+           while($row=mysqli_fetch_array($friends))
+           {
+               
+                  if($row['userOne']==$id)
+                  {
+                     $friendId[$i]=$row['userTwo'];
+               
+                     $i++;                       
+                  }
+                 else
+                 {
+                     $friendId[$i]=$row['userOne'];
+               
+                     $i++;
+                      
+                 }
+           }
+        
+     
+     $str =implode(',', $friendId);
+         return $str;
+     }
+        else
+            return 0;
+
+    }
+ else
+      mysqli_error($conn);
+ 
+}
+
+
+?>
