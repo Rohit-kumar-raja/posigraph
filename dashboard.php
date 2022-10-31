@@ -116,7 +116,7 @@ else
         </div>
         <!--   pagination div-->
         <div class="w3-col m7" style="float:right;margin-right:30px;padding:10px 20px;" id="pagination">
-            <?php include("database/pagination.php");?>
+            <?php //include("database/pagination.php");?>
         </div>
         <!--      end of pagination-->
         <!-- End Grid -->
