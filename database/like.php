@@ -73,7 +73,7 @@ function totalLike($pid)
    if($likes)
    {
        $total=mysqli_fetch_array($likes);
-       echo $total[0];
+  
       return $total[0];
    }
     else
@@ -104,7 +104,7 @@ function insertLike($pid,$userId,$name)
 function getUserId($pid)
 {
      global $conn;
-    $query="select userId from posts where postId='$pid'";
+     $query="select userId from posts where postId='$pid'";
     $userId=mysqli_query($conn,$query);
     $row=mysqli_fetch_array($userId);
     return $row['userId'];
@@ -123,5 +123,3 @@ function deleteNotification($for,$by,$type,$pid)
     $query="delete from notifications where notificationFor='$for' AND notificationBy='$by' AND notificationType='$type' AND postId='$pid'";
     $likes=mysqli_query($conn,$query);
 }
-
-?>

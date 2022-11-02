@@ -86,7 +86,7 @@ function getPost($from, $count)
 
                     <?php
                     $user_one_total_like = totalp1Like($battle_total_users_data['player1_id']);
-                    $user_two_total_like = totalp2Like($battle_total_users_data['player2_id']);
+                     $user_two_total_like = totalp1Like($battle_total_users_data['player2_id']);
                     $user_one_total_like = $user_one_total_like == '' ? 0 : $user_one_total_like;
                     $user_two_total_like = $user_two_total_like == '' ? 0 : $user_two_total_like;
 
