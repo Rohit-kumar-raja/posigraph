@@ -85,8 +85,8 @@ function getPost($from, $count)
                     <!-- like dislike graph for battle start here-->
 
                     <?php
-                    $user_one_total_like = totalp1Like($battle_total_users_data['player1_id']);
-                     $user_two_total_like = totalp1Like($battle_total_users_data['player2_id']);
+                    $user_one_total_like = totalp1Like($battle_total_users_data['player1_id'], 1);
+                    $user_two_total_like = totalp1Like($battle_total_users_data['player2_id'], 2);
                     $user_one_total_like = $user_one_total_like == '' ? 0 : $user_one_total_like;
                     $user_two_total_like = $user_two_total_like == '' ? 0 : $user_two_total_like;
 
@@ -106,7 +106,7 @@ function getPost($from, $count)
                             <button type="button" data-pid="<?= $battle_total_users_data['player1_id'] ?>" data-bid="<?= $battle_total_users_data['battle_id'] ?>" class="p1batlike w3-theme-d1 w3-margin-bottom" style="border: none;   background: #fff;">
                                 <i style="color:<?= $color ?>" id="<?= $battle_total_users_data['player1_id'] ?>" class="fa fa-heart-o heart-graph text-danger"></i>
 
-                                <span id="p1batlike<?= $battle_total_users_data['player1_id'] ?>" style="color:#000;"><?php totalLike($battle_total_users_data['player1_id']); ?></span>
+                                <span id="p1batlike<?= $battle_total_users_data['player1_id'] ?>" style="color:#000;"><?= $user_one_total_like ?></span>
                             </button>
                             <div class="like-graph" style="width:<?= $user_one_total_like_percentage; ?>%"><?= $user_one_total_like_percentage; ?>%</div>
                             <div class="dislike-graph" style="width:<?= $user_two_total_like_percentage; ?>%"><?= $user_two_total_like_percentage; ?>%</div>
@@ -114,7 +114,7 @@ function getPost($from, $count)
                             <button type="button" data-pid="<?= $battle_total_users_data['player2_id'] ?>" class="p2batlike w3-theme-d1 w3-margin-bottom" style="border: none; background: #fff;">
                                 <i style="color:<?= $color ?>" id="<?= $battle_total_users_data['player2_id'] ?>" class="fa fa-heart heart-graph text-danger"></i>
 
-                                <span id="p2batlike<?= $battle_total_users_data['player2_id'] ?>" style="color:#000;"><?php totaldisLike($battle_total_users_data['player2_id']); ?></span>
+                                <span id="p2batlike<?= $battle_total_users_data['player2_id'] ?>" style="color:#000;"><?= $user_two_total_like ?></span>
                             </button>
                         </div>
                     </div>
